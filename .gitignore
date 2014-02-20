@@ -1,0 +1,8 @@
+target/
+work/
+.classpath
+.checkstyle
+.project
+.settings
+pom.xml.*
+release.properties
